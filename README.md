@@ -1,4 +1,4 @@
-Il s'agit d'une application Java EE réalisée en TP. La classe DAOConstantes a été imposée. 
+Il s'agit d'une application Java EE réalisée en TP. L'interface IDAOConstantes a été imposée. 
 
 Le programme permet de simuler une partie de 421 contre l'ordinateur, on nous a demandé de simplifier les règles et de ne tenir compte
 que du score max après trois tentatives et de le comparer à celui de l'ordinateur qui lui n'a qu'une seule tentative.
